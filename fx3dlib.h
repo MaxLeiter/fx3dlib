@@ -1,0 +1,15 @@
+#ifndef _FX3DLIB_H
+#define _FX3DLIB_H
+#include <knightos/display.h>
+
+#define _FX3DLIB_ID 0x03
+
+#define FX3DLIB_ROTATEVERTEX 6
+#define FX3DLIB_PROJECTEVRTEX 9
+#define FX3DLIB_DRAWTRIANGLE 12
+#define FX3DLIB_MAKEVECTOR 15
+#define FX3DLIB_DOTPRODUCT 18
+#define FX3DLIB_CROSSPRODUCT 21
+#define FX3DLIB_TESTBACKFACE 24
+
+#endif
